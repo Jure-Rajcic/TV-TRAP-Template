@@ -1,6 +1,6 @@
 # TV TRAP Template 🚀
 
-Welcome to my Vue 3 template using TypeScript and Vite! This template encapsulates my personal programming style and includes many features I commonly use. I’ve put it up as a template on my GitHub, so I don’t have to worry about setting up the same tech stack repeatedly for most of my projects. 
+This template encapsulates my personal programming style and includes many features I commonly use. I’ve put it up as a template on my GitHub, so I don’t have to worry about setting up the same tech stack repeatedly for most of my projects. 
 
 ## Features 🌟
 
@@ -26,7 +26,7 @@ Feel free to use this template, fork it, or star it on GitHub if you find it use
 ### Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Jure-Rajcic/TV-TRAP-Template.git
 ```
 
 ### Install dependencies
